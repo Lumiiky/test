@@ -1,0 +1,29 @@
+* { 
+    margin: 0px; 
+    padding: 0px; 
+    box-sizing: border-box; 
+}
+button {
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 28px;
+    padding-right: 28px;
+    color: white; 
+    border: 0px; 
+}
+.success {
+    background-color: green;
+}
+.info {
+    background-color: blue;
+}
+.warning {
+    background-color: orange;
+}
+.danger {
+    background-color: red;
+}
+.default {
+    background-color: lightgrey;
+    color: black;
+}
